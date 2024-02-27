@@ -1,2 +1,5 @@
 # Surface-Second-Harmonic-Generation-
-Codes for the Spectral decomposition method from Revisiting the boundary conditions for second-harmonic generation at metal-dielectric interfaces 
+Codes for the Spectral decomposition method based on electrodynamic analogue of the
+Lippmann-Schwinger equation studying surface second harmonic generation from metals <https://opg.optica.org/josab/abstract.cfm?uri=josab-34-9-1824>
+
+The codes also include Mie Scattering for cylinders.
